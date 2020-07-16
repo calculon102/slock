@@ -21,4 +21,5 @@ static const char * message = "Locked.";
 static const char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
-static const char * font_name = "10x20";
+// static const char * font_name = "-misc-hack-medium-r-normal--0-0-0-0-m-0-iso8859-15";
+static const char * font_name = "-adobe-courier-medium-o-normal--24-240-75-75-m-150-iso8859-15";
